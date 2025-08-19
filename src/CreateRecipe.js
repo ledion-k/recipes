@@ -10,7 +10,7 @@ function CreateRecipe() {
         <form>
           <div className="form-group">
             <label>Recipe Title</label>
-            <input type="text" placeholder="Enter recipe title" />
+            <input type="text" placeholder="Please enter recipe title" />
           </div>
 
           <div className="form-group">
@@ -19,7 +19,7 @@ function CreateRecipe() {
           </div>
 
           <div className="form-group">
-            <label>Instructionsss</label>
+            <label>Instructions</label>
             <textarea placeholder="Write cooking instructions..." rows="6"></textarea>
           </div>
 
