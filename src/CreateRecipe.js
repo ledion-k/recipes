@@ -19,7 +19,7 @@ function CreateRecipe() {
           </div>
 
           <div className="form-group">
-            <label>Instructions</label>
+            <label>Instructionsss</label>
             <textarea placeholder="Write cooking instructions..." rows="6"></textarea>
           </div>
 
